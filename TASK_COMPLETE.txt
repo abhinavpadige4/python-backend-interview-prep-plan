@@ -1,3 +1,0 @@
-3-day Python backend interview preparation completed successfully.
-All 13 practice problems solved with complete working code.
-Repository: https://github.com/abhinavpadige4/python-backend-interview-prep-plan
